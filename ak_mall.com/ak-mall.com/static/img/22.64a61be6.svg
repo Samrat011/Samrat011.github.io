@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>22</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#88CBFE" offset="0.0453282069%"></stop>
+            <stop stop-color="#529ED7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="mine-（蓝色）" transform="translate(-166.000000, -472.000000)">
+            <g id="Profit-List-2" transform="translate(135.000000, 452.000000)">
+                <g id="22" transform="translate(31.000000, 20.000000)">
+                    <circle id="椭圆形" fill="url(#linearGradient-1)" cx="21" cy="21" r="21"></circle>
+                    <g id="统计列表" transform="translate(11.666667, 11.666667)" fill="#FFFFFF" fill-rule="nonzero">
+                        <path d="M17.1111111,0 L1.55555556,0 C0.697498619,0.00253607972 0.00253607972,0.697498619 0,1.55555556 L0,17.1111111 C0.00253607972,17.969168 0.697498619,18.6641306 1.55555556,18.6666667 L17.1111111,18.6666667 C17.969168,18.6641306 18.6641306,17.969168 18.6666667,17.1111111 L18.6666667,1.55555556 C18.6641306,0.697498619 17.969168,0.00253607972 17.1111111,0 Z M5.44444444,15.5555556 L2.33333333,15.5555556 L2.33333333,6.22222222 L5.44444444,6.22222222 L5.44444444,15.5555556 Z M10.8888889,15.5555556 L7.77777778,15.5555556 L7.77777778,3.11111111 L10.8888889,3.11111111 L10.8888889,15.5555556 Z M16.3333333,15.5555556 L13.2222222,15.5555556 L13.2222222,8.55555556 L16.3333333,8.55555556 L16.3333333,15.5555556 Z" id="形状"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

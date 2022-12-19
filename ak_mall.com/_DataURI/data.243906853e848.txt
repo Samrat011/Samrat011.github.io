@@ -1,0 +1,1 @@
+chrome-extension://ejjladinnckdgjemekebdpeokbikhfci/static/js/inpage.js
